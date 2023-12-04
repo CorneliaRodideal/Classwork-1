@@ -50,6 +50,7 @@ a:visited{
 }
 .block{
   display: block;
+  font-style:italic;
 }
 .semi-visible{
   opacity:0.5;
