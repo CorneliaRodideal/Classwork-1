@@ -63,7 +63,7 @@ img{
   width:160px;
   height:90x;
   left:50px;
-  animation: image 3s;
+  animation: image 5s;
 }
 img:hover{
   width:240px;
