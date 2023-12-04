@@ -51,7 +51,7 @@ a:visited{
 .block{
   display: block;
 }
-.op2{
+.semi-visible{
   opacity:0.5;
 }
 .inline {
