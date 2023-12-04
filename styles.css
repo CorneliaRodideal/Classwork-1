@@ -26,13 +26,13 @@ p+p{
   
 }
 h4::before{
-  content: "Hello";
-  color:green;
+  content: "Good morning";
+  color:blue;
   font-weight:bold;
 }
 h5::after{
-  content: "Bye!";
-  color:green;
+  content: "Good Bye!";
+  color:blue;
   font-weight:bold;
 }
 h3:hover{
